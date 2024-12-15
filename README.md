@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **weby(A Website Builder)**
 
-- 💬 Ask me about **JS, React, Nodejs, PHP**
+- 💬 Ask me about **JS, React, Nodejs, Mongodb, SQL**
 
 - 📫 How to reach me **sazu2441@gmail.com**
 
